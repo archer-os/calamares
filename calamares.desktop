@@ -1,19 +1,19 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Install System
+Name=Install ArcherOS
 GenericName=System Installer
 Keywords=calamares;system;installer;
 TryExec=calamares
 Exec=sh -c "pkexec calamares"
-Comment=Calamares — System Installer
-Icon=calamares
+Comment=ArcherOS System Installer
+Icon=archeros
 Terminal=false
 StartupNotify=true
 Categories=Qt;System;
 X-AppStream-Ignore=true
 
-Name[ar]=تثبيت النظام 
+Name[ar]=تثبيت النظام
 Icon[ar]=كالامارس
 GenericName[ar]=مثبت النظام
 Comment[ar]=كالامارس - مثبت النظام
